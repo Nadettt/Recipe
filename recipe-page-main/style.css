@@ -1,4 +1,4 @@
-body {
+ body {
     background-color: hsl(124, 76%, 92%);
     font-family: "Outfit", sans-serif;
     font-size: 16px;  
@@ -37,7 +37,7 @@ img {
     font-weight: 600;
 }
 .preparation {
-    background-color: #FFF0F5;
+    background-color: hsl(186, 38%, 95%);
     border-radius: 10px;
     padding: 10px;
 }
